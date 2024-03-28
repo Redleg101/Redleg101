@@ -10,8 +10,21 @@
 - <b>C# (.NET Desktop Applications)</b>
   
 - <b>Wireshark</b>
-  
-
+<h2>Tools</h2>
+## Network
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />  
+    <img src="https://img.shields.io/badge/-Nmap-2C2D72?style=for-the-badge&logo=Nmap&logoColor=white" />
+</div>
+## Endpoint
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_365-0078D4?style=for-the-badge&logo=Microsoft%20Office&logoColor=white" />
+</div>
+## Cloud
+<div>
+    <img src="https://img.shields.io/badge/-Amazon%20AWS%20S3-569A31?style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft%20Azure-0089D6?style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
+</div>
 <h2>📄 Certifications</h2>
 
 <h2>📄 Education</h2>
